@@ -13,7 +13,7 @@
 ---
 
 ## 🛠 Installation
-1. Download the latest version of the plugin from the [Releases](https://github.com/YourUsername/eRestart/releases) page.
+1. Download the latest version of the plugin from the [Releases](https://github.com/agenti4ok/eRestart/releases) page.
 2. Place the downloaded `.jar` file into your server's `/plugins/` folder.
 3. Restart your server to generate the configuration file.
 
